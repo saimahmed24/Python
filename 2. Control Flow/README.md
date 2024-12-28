@@ -36,4 +36,6 @@ This folder introduces the concept of control flow in Python, enabling you to co
 
 ---
 
-Practice these concepts thoroughly as they are foundational for problem-solving in Python. Happy coding!
+Practice these concepts thoroughly as they are foundational for problem-solving in Python. 
+
+Happy coding!
