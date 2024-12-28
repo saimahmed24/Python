@@ -5,8 +5,8 @@ coordinates = (10, 20)
 print("X-coordinate:", coordinates[0])
 print("Y-coordinate:", coordinates[1])
 
-#Immutability example
-try: 
+#Immutability example       
+try:             
     coordinates[0] = 15
 except TypeError as e:
     print("Error:", e)
