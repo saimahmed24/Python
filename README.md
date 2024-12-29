@@ -68,7 +68,7 @@ The repository is organized into multiple sections, each covering a specific asp
 Feel free to contribute to this repository by adding new examples, fixing errors, or improving documentation. Submit a pull request to share your contributions.
 
 ## License
-This repository is open-source and free to use under the [MIT License](LICENSE).
+This repository is open-source and free to use.
 
 ---
 
